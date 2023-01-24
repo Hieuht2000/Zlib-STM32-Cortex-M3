@@ -1,0 +1,4 @@
+../Core/Src/adler32.c:65:15:adler32	32	static
+../Core/Src/adler32.c:136:13:adler32_combine_	40	static
+../Core/Src/adler32.c:165:15:adler32_combine	24	static
+../Core/Src/adler32.c:173:15:adler32_combine64	24	static

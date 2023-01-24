@@ -1,0 +1,4 @@
+../Core/Src/infback.c:28:13:inflateBackInit_	32	static
+../Core/Src/infback.c:82:12:fixedtables	16	static
+../Core/Src/infback.c:250:13:inflateBack	96	static
+../Core/Src/infback.c:631:13:inflateBackEnd	16	static

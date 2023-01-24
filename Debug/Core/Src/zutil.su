@@ -1,0 +1,6 @@
+../Core/Src/zutil.c:30:22:zlibVersion	4	static
+../Core/Src/zutil.c:35:15:zlibCompileFlags	16	static
+../Core/Src/zutil.c:125:20:z_error	16	static
+../Core/Src/zutil.c:136:22:zError	16	static
+../Core/Src/zutil.c:304:22:zcalloc	24	static
+../Core/Src/zutil.c:314:20:zcfree	16	static

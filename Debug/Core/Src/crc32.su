@@ -1,0 +1,9 @@
+../Core/Src/crc32.c:190:29:get_crc_table	4	static
+../Core/Src/crc32.c:204:23:crc32	32	static
+../Core/Src/crc32.c:247:21:crc32_little	32	static
+../Core/Src/crc32.c:287:21:crc32_big	32	static
+../Core/Src/crc32.c:327:21:gf2_matrix_times	24	static
+../Core/Src/crc32.c:344:12:gf2_matrix_square	32	static
+../Core/Src/crc32.c:355:13:crc32_combine_	296	static
+../Core/Src/crc32.c:411:15:crc32_combine	24	static
+../Core/Src/crc32.c:419:15:crc32_combine64	24	static

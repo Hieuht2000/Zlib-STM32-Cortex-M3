@@ -1,0 +1,3 @@
+../Core/Src/compress.c:21:13:compress2	88	static
+../Core/Src/compress.c:61:13:compress	32	static
+../Core/Src/compress.c:74:15:compressBound	16	static
